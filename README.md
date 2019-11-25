@@ -1,6 +1,6 @@
+# Xiangwu Dai's Personal Website
 
-# Welcome to LearnCS8 Resume Website
+My name is Xiangwu dai, I am a student in University of California, Riverside.
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+# Screenshot
+![Description of Image](img/yourimage.jpg)
